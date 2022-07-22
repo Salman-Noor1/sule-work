@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+     border: 2px;
+    display: grid;
+    border-radius: 3px;
+    background-color: aqua;
+    justify-content: center;
+    border-radius: 10px;
+    border: solid 3px black;
+
+}
+
+.card1 {
+     
+}
+.p {
+    width: 100px;
+}
+.ph {
+    width: 100px
+}
